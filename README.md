@@ -1,6 +1,6 @@
 # AI Image Generator
 
-A Python script using the `diffusers` library to generate high-quality images from text prompts.
+A Python script using the `diffusers` library to generate images from text prompts.
 
 ## Usage
 
