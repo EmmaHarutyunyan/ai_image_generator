@@ -24,3 +24,7 @@ A Python script using the `diffusers` library to generate high-quality images fr
 
 
 ![Generated Image](https://github.com/user-attachments/assets/859b25bb-da6e-43ed-a57c-9d9f50befdd6)
+
+![Generated Image]([https://github.com/user-attachments/assets/859b25bb-da6e-43ed-a57c-9d9f50befdd6](https://github.com/user-attachments/assets/77f26e40-a4c5-43e3-bea2-13bce2763bff"))
+
+
