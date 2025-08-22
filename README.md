@@ -17,7 +17,7 @@ A Python script using the `diffusers` library to generate high-quality images fr
    ```bash
       pip install -r requirements.txt
    ```
-3.Run the script:
+4.Run the script:
    ```bash
       python generate_image.py
    ```
